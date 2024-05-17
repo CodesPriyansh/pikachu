@@ -1,0 +1,5 @@
+#THE CORRECT ANSWERS FOR MCQs - CHALLANGE 8
+
+'''
+A, C, C, D
+'''
