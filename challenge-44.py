@@ -1,0 +1,11 @@
+# solutions for chalenge - 44
+
+'''
+1. LINE-30
+2. LIST
+3. 2 
+4. ELEMENT IS PRESENT AT INDEX 3
+5. ELEMENT IS NOT PRESENT IN LIST
+6. FLOOR DIVISION 
+7. INTEGER
+'''
