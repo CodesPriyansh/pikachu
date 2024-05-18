@@ -4,3 +4,4 @@ Solutions to all the challenges i completed from the book "The Little Book of Al
 1. https://github.com/CodesPriyansh/pikachu/blob/main/challange-1-2.py
 2. https://github.com/CodesPriyansh/pikachu/blob/main/challange-3-4.py
 3. https://github.com/CodesPriyansh/pikachu/blob/main/challange-5-6.py
+4. https://github.com/CodesPriyansh/pikachu/blob/main/challange-7.py
